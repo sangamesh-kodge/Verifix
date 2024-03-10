@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kodge"
+    given-names: "Sangamesh"
+    orcid: "https://orcid.org/0000-0001-9713-5400"
+  - family-names: "Ravikumar"
+    given-names: "Deepak"
+    orcid: "https://orcid.org/0000-0001-6736-3250"
+  - family-names: "Saha"
+    given-names: "Gobinda"
+    orcid: "https://orcid.org/0000-0001-5756-6679"
+  - family-names: "Roy"
+    given-names: "Kaushik"
+    orcid: "https://orcid.org/0000-0002-0735-9695"
+  title: "Verifix: Post-Training Correction to Improve Label Noise Robustness with Verified Samples"
+  year: 2024
+  month: 3
+  eprint: 2403.08618
+  archivePrefix: arXiv
+  date-released: 2024-3-13
+  url: "https://arxiv.org/abs/2403.08618"

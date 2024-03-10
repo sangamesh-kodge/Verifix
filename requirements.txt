@@ -1,0 +1,7 @@
+pytorch
+argparse
+sklearn
+wandb
+matplotlib
+seaborn
+SciencePlots
