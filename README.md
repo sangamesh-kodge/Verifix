@@ -1,6 +1,6 @@
 # [Verifix] - Post-Training Correction to Improve Label Robustness with Verified Samples
 
-This repository implements the code for our paper Verifix. 
+This repository implements the code for our paper [Verifix](https://arxiv.org/abs/2403.08618). 
 
 
 ## Dependency Installation
